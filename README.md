@@ -5,9 +5,15 @@
 🚀 Power BI Sales Overview Dashboard – Data-Driven Decision Making! 🎯
 Excited to share my latest Power BI dashboard, designed to analyze Sales Performance by Region with Year-over-Year (YoY) metrics and state-wise insights.
 🔹 Key Features:
+
 ✅ Sales Breakdown – Central, East, South & West comparison.
+
  ✅ YoY Analysis – Current Year vs. Previous Year Sales, Profit & Quantity.
+ 
  ✅ Top Categories & Customers – Identifying high-value segments.
+ 
  ✅ Interactive Filters – Slicers for Year, Sales, Profit, and Quantity.
+ 
  ✅ State-wise Performance Map – Visualizing sales distribution across the U.S.
+ 
 💡 Technologies Used: Power BI, DAX, Data Visualization
